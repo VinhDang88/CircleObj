@@ -1,0 +1,15 @@
+C:\Users\vinnn\source\repos\CirclesObj\CirclesObj\obj\Debug\net6.0\CirclesObj.csproj.AssemblyReference.cache
+C:\Users\vinnn\source\repos\CirclesObj\CirclesObj\obj\Debug\net6.0\CirclesObj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinnn\source\repos\CirclesObj\CirclesObj\obj\Debug\net6.0\CirclesObj.AssemblyInfoInputs.cache
+C:\Users\vinnn\source\repos\CirclesObj\CirclesObj\obj\Debug\net6.0\CirclesObj.AssemblyInfo.cs
+C:\Users\vinnn\source\repos\CirclesObj\CirclesObj\obj\Debug\net6.0\CirclesObj.csproj.CoreCompileInputs.cache
+C:\Users\vinnn\source\repos\CirclesObj\CirclesObj\bin\Debug\net6.0\CirclesObj.exe
+C:\Users\vinnn\source\repos\CirclesObj\CirclesObj\bin\Debug\net6.0\CirclesObj.deps.json
+C:\Users\vinnn\source\repos\CirclesObj\CirclesObj\bin\Debug\net6.0\CirclesObj.runtimeconfig.json
+C:\Users\vinnn\source\repos\CirclesObj\CirclesObj\bin\Debug\net6.0\CirclesObj.dll
+C:\Users\vinnn\source\repos\CirclesObj\CirclesObj\bin\Debug\net6.0\CirclesObj.pdb
+C:\Users\vinnn\source\repos\CirclesObj\CirclesObj\obj\Debug\net6.0\CirclesObj.dll
+C:\Users\vinnn\source\repos\CirclesObj\CirclesObj\obj\Debug\net6.0\refint\CirclesObj.dll
+C:\Users\vinnn\source\repos\CirclesObj\CirclesObj\obj\Debug\net6.0\CirclesObj.pdb
+C:\Users\vinnn\source\repos\CirclesObj\CirclesObj\obj\Debug\net6.0\CirclesObj.genruntimeconfig.cache
+C:\Users\vinnn\source\repos\CirclesObj\CirclesObj\obj\Debug\net6.0\ref\CirclesObj.dll
